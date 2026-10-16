@@ -1,0 +1,14 @@
+# IDE / build artifacts
+.vs/
+.vscode/
+.idea/
+bin/
+obj/
+*.user
+*.suo
+*.dll
+*.pdb
+
+# OS files
+.DS_Store
+Thumbs.db

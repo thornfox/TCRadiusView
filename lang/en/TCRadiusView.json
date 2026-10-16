@@ -1,0 +1,7 @@
+{
+  "NoPermission": "You don't have permission to use this command.",
+  "Enabled": "Tool cupboard zones are now <color=#2ECC71>visible</color>. Type /{0} again to hide them.",
+  "Disabled": "Tool cupboard zones are now <color=#E74C3C>hidden</color>.",
+  "NoneFound": "No authorized tool cupboards within {0} m right now. The view stays active while you move around.",
+  "Label": "TC"
+}

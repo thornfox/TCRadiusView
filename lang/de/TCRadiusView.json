@@ -1,0 +1,7 @@
+{
+  "NoPermission": "Du hast keine Berechtigung für diesen Befehl.",
+  "Enabled": "Die Bereiche deiner Werkzeugschränke sind jetzt <color=#2ECC71>sichtbar</color>. Gib /{0} erneut ein, um sie auszublenden.",
+  "Disabled": "Die Bereiche deiner Werkzeugschränke sind jetzt <color=#E74C3C>ausgeblendet</color>.",
+  "NoneFound": "Gerade keine autorisierten Werkzeugschränke im Umkreis von {0} m. Die Anzeige bleibt aktiv, während du dich bewegst.",
+  "Label": "TC"
+}
